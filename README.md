@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-Olá, meu nome é Adão, tenho 14 anos e sou um apaixonado<br>por tecnologia que tive contato com ela desde a infância<br>, sou um desenvolvedor back-end em ascensão. Comecei a <br>estudar programação em março de 2023 e ainda continuo<br>estudando para me aprimorar e não ficar para trás que os<br>outros.
+Olá, meu nome é Adão, tenho 14 anos e sou um apaixonado<br>por tecnologia que tive contato com ela desde a infância<br>, sou um desenvolvedor back-end em ascensão. Comecei a <br>estudar programação em março de 2023 e ainda continuo<br>estudando para aprimorar ainda mais habilidades e tambem novas habilidades.
 
 
 # 💻 Tecnologias:

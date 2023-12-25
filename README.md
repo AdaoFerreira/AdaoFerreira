@@ -19,7 +19,6 @@ Olá, meu nome é Adão, tenho 14 anos e sou um apaixonado<br>por tecnologia que
 ![](https://github-readme-stats.vercel.app/api?username=AdaoFerreira&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AdaoFerreira&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdaoFerreira&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AdaoFerreira&icon=0&color=11)](https://visitcount.itsvg.in)
